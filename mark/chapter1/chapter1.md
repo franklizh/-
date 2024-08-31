@@ -12,4 +12,4 @@
 
 **互连网 (internet) ≠ 互联网 (Internet)**
 
-![image](img\image.png)
+![image](.\img\image.png)
